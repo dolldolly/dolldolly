@@ -1,6 +1,6 @@
 {
     "name": "dorrydoll",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "private": false,
     "main": "./ptMain.min.js",
     "license": "MIT",
